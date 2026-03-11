@@ -1,0 +1,110 @@
+[
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_common.dir/common/src/dsv_consensus.c.o -c /workspaces/DSV/common/src/dsv_consensus.c",
+  "file": "/workspaces/DSV/common/src/dsv_consensus.c",
+  "output": "CMakeFiles/dsv_common.dir/common/src/dsv_consensus.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_common.dir/common/src/dsv_crypto.c.o -c /workspaces/DSV/common/src/dsv_crypto.c",
+  "file": "/workspaces/DSV/common/src/dsv_crypto.c",
+  "output": "CMakeFiles/dsv_common.dir/common/src/dsv_crypto.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_common.dir/common/src/dsv_serialize.c.o -c /workspaces/DSV/common/src/dsv_serialize.c",
+  "file": "/workspaces/DSV/common/src/dsv_serialize.c",
+  "output": "CMakeFiles/dsv_common.dir/common/src/dsv_serialize.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_common.dir/common/src/dsv_u320.c.o -c /workspaces/DSV/common/src/dsv_u320.c",
+  "file": "/workspaces/DSV/common/src/dsv_u320.c",
+  "output": "CMakeFiles/dsv_common.dir/common/src/dsv_u320.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_node_lib.dir/node/src/dsv_chain.c.o -c /workspaces/DSV/node/src/dsv_chain.c",
+  "file": "/workspaces/DSV/node/src/dsv_chain.c",
+  "output": "CMakeFiles/dsv_node_lib.dir/node/src/dsv_chain.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_node_lib.dir/node/src/dsv_mempool.c.o -c /workspaces/DSV/node/src/dsv_mempool.c",
+  "file": "/workspaces/DSV/node/src/dsv_mempool.c",
+  "output": "CMakeFiles/dsv_node_lib.dir/node/src/dsv_mempool.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_node_lib.dir/node/src/dsv_p2p.c.o -c /workspaces/DSV/node/src/dsv_p2p.c",
+  "file": "/workspaces/DSV/node/src/dsv_p2p.c",
+  "output": "CMakeFiles/dsv_node_lib.dir/node/src/dsv_p2p.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_node_lib.dir/node/src/dsv_rpc.c.o -c /workspaces/DSV/node/src/dsv_rpc.c",
+  "file": "/workspaces/DSV/node/src/dsv_rpc.c",
+  "output": "CMakeFiles/dsv_node_lib.dir/node/src/dsv_rpc.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_node_lib.dir/node/src/dsv_storage.c.o -c /workspaces/DSV/node/src/dsv_storage.c",
+  "file": "/workspaces/DSV/node/src/dsv_storage.c",
+  "output": "CMakeFiles/dsv_node_lib.dir/node/src/dsv_storage.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsvd.dir/node/main.c.o -c /workspaces/DSV/node/main.c",
+  "file": "/workspaces/DSV/node/main.c",
+  "output": "CMakeFiles/dsvd.dir/node/main.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv_wallet_lib.dir/wallet/src/dsv_wallet.c.o -c /workspaces/DSV/wallet/src/dsv_wallet.c",
+  "file": "/workspaces/DSV/wallet/src/dsv_wallet.c",
+  "output": "CMakeFiles/dsv_wallet_lib.dir/wallet/src/dsv_wallet.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv-wallet.dir/wallet/main.c.o -c /workspaces/DSV/wallet/main.c",
+  "file": "/workspaces/DSV/wallet/main.c",
+  "output": "CMakeFiles/dsv-wallet.dir/wallet/main.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv-cli.dir/cli/main.c.o -c /workspaces/DSV/cli/main.c",
+  "file": "/workspaces/DSV/cli/main.c",
+  "output": "CMakeFiles/dsv-cli.dir/cli/main.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/dsv-cli.dir/cli/src/rpc_client.c.o -c /workspaces/DSV/cli/src/rpc_client.c",
+  "file": "/workspaces/DSV/cli/src/rpc_client.c",
+  "output": "CMakeFiles/dsv-cli.dir/cli/src/rpc_client.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/test_consensus.dir/tests/unit/test_consensus.c.o -c /workspaces/DSV/tests/unit/test_consensus.c",
+  "file": "/workspaces/DSV/tests/unit/test_consensus.c",
+  "output": "CMakeFiles/test_consensus.dir/tests/unit/test_consensus.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/test_crypto.dir/tests/unit/test_crypto.c.o -c /workspaces/DSV/tests/unit/test_crypto.c",
+  "file": "/workspaces/DSV/tests/unit/test_crypto.c",
+  "output": "CMakeFiles/test_crypto.dir/tests/unit/test_crypto.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/test_serialize.dir/tests/unit/test_serialize.c.o -c /workspaces/DSV/tests/unit/test_serialize.c",
+  "file": "/workspaces/DSV/tests/unit/test_serialize.c",
+  "output": "CMakeFiles/test_serialize.dir/tests/unit/test_serialize.c.o"
+},
+{
+  "directory": "/workspaces/DSV/build",
+  "command": "/usr/bin/cc  -I/workspaces/DSV/node/include -I/workspaces/DSV/wallet/include -I/workspaces/DSV/common/include -I/workspaces/DSV/cli/include -I/usr/include/cjson -std=gnu11 -Wall -Wextra -Werror -Wpedantic -Wformat=2 -Wformat-security -Wstack-protector -fstack-protector-strong -D_FORTIFY_SOURCE=2 -g -O0 -o CMakeFiles/test_u320.dir/tests/unit/test_u320.c.o -c /workspaces/DSV/tests/unit/test_u320.c",
+  "file": "/workspaces/DSV/tests/unit/test_u320.c",
+  "output": "CMakeFiles/test_u320.dir/tests/unit/test_u320.c.o"
+}
+]
